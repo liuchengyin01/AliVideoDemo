@@ -17,9 +17,8 @@ import java.util.List;
 
 /**
  * @ClassName VideoServiceImpl
- * @Description
+ * @Description 阿里云视频点播服务Service
  * @Author 柳成荫
- * @Date 2021/3/21
  */
 @Service
 public class VideoServiceImpl implements VideoService {

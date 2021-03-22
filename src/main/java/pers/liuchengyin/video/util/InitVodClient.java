@@ -9,7 +9,6 @@ import com.aliyuncs.profile.DefaultProfile;
  * @ClassName InitVodClient
  * @Description 阿里云视频点播服务 - 初始化
  * @Author 柳成荫
- * @Date 2021/3/21
  */
 public class InitVodClient {
 

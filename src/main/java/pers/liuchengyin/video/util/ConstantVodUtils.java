@@ -6,9 +6,8 @@ import org.springframework.stereotype.Component;
 
 /**
  * @ClassName ConstantVodUtil
- * @Description
+ * @Description 工具类
  * @Author 柳成荫
- * @Date 2021/3/21
  */
 @Component
 public class ConstantVodUtils implements InitializingBean {

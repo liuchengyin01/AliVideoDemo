@@ -6,9 +6,8 @@ import java.util.List;
 
 /**
  * @ClassName VideoService
- * @Description
+ * @Description 阿里云视频点播服务Service
  * @Author 柳成荫
- * @Date 2021/3/21
  */
 public interface VideoService {
     /**

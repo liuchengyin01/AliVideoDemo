@@ -20,9 +20,8 @@ import java.util.List;
 
 /**
  * @ClassName VideoController
- * @Description
+ * @Description 阿里云视频点播服务Controller
  * @Author 柳成荫
- * @Date 2021/3/21
  */
 @RestController
 @RequestMapping("/video")
